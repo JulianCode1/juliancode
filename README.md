@@ -1,2 +1,2 @@
-![Metrics](https://metrics.lecoq.io/JulianCode1)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JulianCode1)
 
